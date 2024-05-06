@@ -3,11 +3,14 @@
 ## Memoization
 
 Brute-force
-Step 1. Visualise the problem as tree
-Step 2. implement the tree using recursion (brute force solution)
-Step 3. test it
+
+1. Visualise the problem as tree
+2. implement the tree using recursion (brute force solution)
+3. test it
+   
 Make it more efficient
-Step 4. Add a memo object
-Step 5. add a base case to return memo values
+
+4. Add a memo object
+5. add a base case to return memo values
 
 ## Tabulation
