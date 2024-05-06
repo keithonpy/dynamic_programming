@@ -16,3 +16,9 @@
 
 ## Tabulation
 
+1. Visualise the problem as a table
+2. Size the table based on the inputs#
+3. Initialize the table with default values (eg. [0] * (length+1) at fibonacci)
+4. Seed the trivial answer into the table (eg. dp[1] = 1 at fibonacci)
+5. Iterate throught the table
+6. Fill further positions based on the current position
